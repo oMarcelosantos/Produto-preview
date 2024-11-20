@@ -12,4 +12,10 @@ O layout da página se adapta automaticamente a diferentes tamanhos de tela, gra
 * width: 480px e 400px; Mudança para layout mobile
 
 ## Como utilizar
+1. **Clone este repositório:**
+   ```bash 
+   https://github.com/oMarcelosantos/Produto-preview.git
+2.  **Site ativo URL:**
+    ```bash
+    https://omarcelosantos.github.io/Produto-preview/
 
